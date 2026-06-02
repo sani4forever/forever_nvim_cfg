@@ -81,5 +81,3 @@ rm -rf ~/.config/nvim ~/.local/share/nvim ~/.cache/nvim ~/.local/state/nvim
 * `~/.local/share/nvim` — склонированные плагины и установленные бинарники Mason/Treesitter.
 * `~/.cache/nvim` — временные файлы кэша компиляции и логи (LSP/плагинов).
 * `~/.local/state/nvim` — история сессий, undo-файлы, история команд (ShaDa).
-
-```
