@@ -1,0 +1,2 @@
+:TSInstall yaml dockerfile bash lua markdown markdown_inline python
+:MasonInstall dockerfile-language-server docker-compose-language-service ansible-language-server terraform-ls yaml-language-server bash-language-server lua-language-server
